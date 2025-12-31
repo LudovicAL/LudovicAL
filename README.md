@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9E8E8&height=120&section=header" alt="header"/> 
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hi+there%2C+nice+to+see+you!" alt="Programmer analyst"/>
 
 <p>
@@ -44,8 +45,8 @@
 
 <h3>Projects I'm working on</h3>
 
-- [Tradify](https://github.com/LudovicAL/Tradify) : The Shazam of traditionnal music
-- [Partitions](https://github.com/LudovicAL/Partitions) : A database of traditionnal sheet music
+- [Tradify](https://github.com/LudovicAL/Tradify) : The Shazam of traditionnal music [![Hits](https://hits.sh/ludovical.github.io/Tradify.svg?view=total&style=plastic)](https://hits.sh/ludovical.github.io/Tradify/)
+- [Partitions](https://github.com/LudovicAL/Partitions) : A database of traditionnal sheet music [![Hits](https://hits.sh/ludovical.github.io/Partitions.svg?view=total&style=plastic)](https://hits.sh/ludovical.github.io/Partitions/)
 - [Folkset](https://github.com/LudovicAL/FolkSets) : An Android app that display and organizes sheet music
 - [Compasses](https://github.com/LudovicAL/Compasses) : A proof of concept 'minigame', showcasing 4 different compasses for video games
 - [Mini Map 3d](https://github.com/LudovicAL/MiniMap3d) : A proof of concept 'minigame', showcasing a minimap in three-dimensional space
