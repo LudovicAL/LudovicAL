@@ -58,3 +58,8 @@
 
 <h3>Where to find me</h3>
 <a href="mailto:ludovicaubut@hotmail.com">ludovicaubut@hotmail.com</a>
+
+<h3>Support me</h3>
+<a href="https://buymeacoffee.com/ludovical" title="Buy me a coffee" target="_blank">
+  <img src="assets/BuyMeACoffee.svg" alt="Buy me a coffee" style="height:25px">Achetez-moi un café
+</a>
