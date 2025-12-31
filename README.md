@@ -4,7 +4,7 @@
 <p>
   Welcome to my page 👋
   <br>I'm **Ludovic A.-Lussier**,
-  <br>A passionate programmer and traditionnal fiddle player from Quebec.
+  <br>A passionate programmer and traditionnal fiddle player from Montreal.
 </p>
 
 <h3>Things I code with</h3>
