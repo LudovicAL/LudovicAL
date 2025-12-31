@@ -1,6 +1,7 @@
-## Hi there 👋, nice to see you.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hi+there%2C+nice+to+see+you!" alt="Programmer analyst"/>
+
 <p>
-  Welcome to my page!
+  Welcome to my page 👋
   <br>I'm **Ludovic A.-Lussier**,
   <br>A passionate programmer and traditionnal fiddle player from Quebec.
 </p>
