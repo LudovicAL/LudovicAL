@@ -45,8 +45,8 @@
 
 <h3>Projects I'm working on</h3>
 
-- [Tradify](https://github.com/LudovicAL/Tradify) : The Shazam of traditionnal music [![Hits](https://hits.sh/ludovical.github.io/Tradify.svg?view=total&style=plastic)](https://hits.sh/ludovical.github.io/Tradify/)
-- [Partitions](https://github.com/LudovicAL/Partitions) : A database of traditionnal sheet music [![Hits](https://hits.sh/ludovical.github.io/Partitions.svg?view=total&style=plastic)](https://hits.sh/ludovical.github.io/Partitions/)
+- [Tradify](https://github.com/LudovicAL/Tradify) : The Shazam of traditionnal music
+- [Partitions](https://github.com/LudovicAL/Partitions) : A database of traditionnal sheet music
 - [Folkset](https://github.com/LudovicAL/FolkSets) : An Android app that display and organizes sheet music
 - [Compasses](https://github.com/LudovicAL/Compasses) : A proof of concept 'minigame', showcasing 4 different compasses for video games
 - [Mini Map 3d](https://github.com/LudovicAL/MiniMap3d) : A proof of concept 'minigame', showcasing a minimap in three-dimensional space
