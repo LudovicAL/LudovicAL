@@ -1,8 +1,8 @@
 ## Hi there 👋, nice to see you.
 <p>
   Welcome to my page!
-  <br>I'm **Ludovic A.-Lussier**.
-  <br>A passionate programmer and traditionnal fiddle player from Quebec
+  <br>I'm **Ludovic A.-Lussier**,
+  <br>A passionate programmer and traditionnal fiddle player from Quebec.
 </p>
 
 <h3>Things I code with</h3>
