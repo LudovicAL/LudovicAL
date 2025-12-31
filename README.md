@@ -42,7 +42,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
+<h3>Projects I'm working on</h3>
 
 - [Tradify](https://github.com/LudovicAL/Tradify) : The Shazam of traditionnal music
 - [Partitions](https://github.com/LudovicAL/Partitions) : A database of traditionnal sheet music
@@ -61,7 +61,9 @@
 <h3>Where to find me</h3>
 <a href="mailto:ludovicaubut@hotmail.com">ludovicaubut@hotmail.com</a>
 
-<h3>Support me</h3>
+<h3>How to support me</h3>
 <a href="https://buymeacoffee.com/ludovical" title="Buy me a coffee" target="_blank">
   <img src="assets/BuyMeACoffee.svg" alt="Buy me a coffee" style="height:25px">Buy me a coffee
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9E8E8&height=120&section=footer" alt="footer"/>
