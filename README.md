@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9E8E8&height=120&section=header" alt="header"/> 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hi+there%2C+nice+to+see+you!" alt="Programmer analyst"/>
+<picture>
+  <!-- Source for users who prefer a dark color scheme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F7F7F7&width=435&lines=Hi+there%2C+nice+to+see+you!">
+  
+  <!-- Fallback/default image (used for light theme or if no preference is set) -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hi+there%2C+nice+to+see+you!" alt="Hi there, nice to see you!">
+</picture>
 
 <p>
   Welcome to my page 👋
